@@ -2,9 +2,9 @@
 
 MX Team :
 
-1. Michael Putera Wardana (1301194056)
-2. Yogi Firgiawan (1301194228)
-3. Firdaus Putra Kurniyanto (1301190385)
+1. Michael Putera Wardana 
+2. Yogi Firgiawan 
+3. Firdaus Putra Kurniyanto 
 
 Skor : 1150 (3rd place)
 
